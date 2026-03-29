@@ -75,7 +75,7 @@ A real-time collaborative whiteboarding application built with modern web techno
 
 ### Monorepo Structure
 ```
-Excali-Sketch/
+VectorSync/
 ├── apps/
 │   ├── ExcaliSketch/          # Next.js frontend application
 │   └── backend/               # Express.js backend API
@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Swaraj Mhashakhetri**
+**Muhammad Adhan Shaikh**
 - LinkedIn: [https://www.linkedin.com/in/muhammad-adhan-shaikh-3a711617b](https://www.linkedin.com/in/muhammad-adhan-shaikh-3a711617b)
 - GitHub: [https://github.com/ADHAN-Z](https://github.com/ADHAN-Z)
 
