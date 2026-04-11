@@ -210,8 +210,8 @@ VectorSync/
 2. Set environment variables in Vercel dashboard
 3. Deploy automatically on push to main branch
 
-### Backend (Vercel)
-1. Configure Vercel for Node.js
+### Backend (Render)
+1. Configure render for Node.js
 2. Set environment variables
 3. Deploy with automatic builds
 
